@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B7B6A760-C5C5-4A9E-8C7A-C69AB8C75D9D}</ProjectGuid>
+    <ProjectGuid>{64D112C6-DA9A-45D8-81A6-5049594E4168}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ConsignmentShopUI</RootNamespace>
     <AssemblyName>ConsignmentShopUI</AssemblyName>
@@ -80,10 +80,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsignmentShopLibrary\ConsignmentShopLibrary.csproj">
-      <Project>{87e6abb6-b8af-463d-8d5c-907c3d179d32}</Project>
-      <Name>ConsignmentShopLibrary</Name>
-    </ProjectReference>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

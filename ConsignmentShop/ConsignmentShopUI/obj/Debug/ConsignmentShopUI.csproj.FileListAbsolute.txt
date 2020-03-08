@@ -1,0 +1,9 @@
+C:\Users\jrroy\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csprojAssemblyReference.cache
+C:\Users\jrroy\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.ConsignmentShop.resources
+C:\Users\jrroy\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.Properties.Resources.resources
+C:\Users\jrroy\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.cache
+C:\Users\jrroy\source\repos\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe.config
+C:\Users\jrroy\source\repos\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe
+C:\Users\jrroy\source\repos\ConsignmentShop\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.pdb
+C:\Users\jrroy\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.exe
+C:\Users\jrroy\source\repos\ConsignmentShop\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.pdb
